@@ -1,0 +1,4 @@
+
+*.csv
+*.gz
+homework/.ipynb_checkpoints/*
